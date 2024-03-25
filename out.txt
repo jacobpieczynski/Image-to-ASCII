@@ -1,0 +1,6 @@
+File: images/test.jpg
+Successfully loaded image
+Image size: 700 x 467 pixels
+Converting image to array...
+(467, 700, 3)
+Converting image to brightness matrix...
